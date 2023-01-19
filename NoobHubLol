@@ -1,2 +1,2 @@
---Paste the key in here if you don't want to go to linkvertise again "The Key" (Key Refresh Every 2 Day)
+--Paste the key in here if you don't want to go to linkvertise again "The Key" (Key Refresh Every 3 Day)
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/danixbo/NoobHub/main/NoobHub')))()
